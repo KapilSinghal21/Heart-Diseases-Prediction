@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Logistic Regression
+# Heart Disease Prediction using Logistic Regression
 
 This project predicts whether a patient is **likely to have heart disease** based on medical attributes from the **UCI Heart Disease dataset** using a Logistic Regression model.
 
